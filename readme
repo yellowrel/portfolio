@@ -16,19 +16,9 @@ Java와 Spring을 공부하는 백엔드 개발자 황승준입니다.
 📜 Projects
 
 
-1. K리그 데이터관리 시스템
-개발 기간: 2023.05
 
-활용 기술:
-Java 11 / Oracle Database/ Oracle SQL
 
-주소:
-https://github.com/hijaekyeoung/SemiProject
-
-PPT:
-https://github.com/yellowrel/portfolio/blob/main/PDF/ScData.pdf
-
-2. ERP기반 컴퓨터몰
+1. ERP기반 컴퓨터몰
 개발 기간: 2023.06~ 2023.07
 
 활용 기술:
@@ -40,7 +30,7 @@ https://github.com/KOSA-DAEBO/TEAM-KWANGWOO
 PPT:
 https://github.com/yellowrel/portfolio/blob/main/PDF/GC.pdf
 
-3. 협업 프로젝트관리 툴
+2. 협업 프로젝트관리 툴
 화상채팅, 실시간 채팅 활용
 개발 기간: 2023.09~ 2023.10
 
@@ -52,5 +42,17 @@ https://github.com/KOSA-DAEBO/PM_Project-Manager
 
 PPT:
 https://github.com/yellowrel/portfolio/blob/main/PDF/PM.pdf
+
+3. K리그 데이터관리 시스템
+개발 기간: 2023.05
+
+활용 기술:
+Java 11 / Oracle Database/ Oracle SQL
+
+주소:
+https://github.com/hijaekyeoung/SemiProject
+
+PPT:
+https://github.com/yellowrel/portfolio/blob/main/PDF/ScData.pdf
 
 
