@@ -16,8 +16,7 @@ Java와 Spring을 알고리즘을 공부하는 백엔드 개발자 황승준입�
 📜 Projects
 
 
-
-1. 
+1. ERP기반 컴퓨터몰
 개발 기간: 2023.06~ 2023.07
 
 활용 기술:
@@ -26,9 +25,10 @@ Java/ Servlet/ JSP/ Oracle Database/ Oracle SQL/ HTML/ CSS/ Javascript/ Git
 주소:
 https://github.com/KOSA-DAEBO/TEAM-KWANGWOO
 
-ERP기반 컴퓨터몰
 
-*담당업무*: 
+
+🔍담당업무: 
+
 - 로그인/회원가입
 회원가입시 SHA512/256 해시함수를 통한 암호화 알고리즘 사용
 Filter를 활용하여 로그인 여부체크
@@ -41,7 +41,6 @@ Oracle SCHEDULER를 활용하여 매일 출퇴근상태를 변경& 오래된 직
 
 
 2. 협업 프로젝트관리 툴
-화상채팅, 실시간 채팅 활용
 개발 기간: 2023.09~ 2023.10
 
 활용 기술:
