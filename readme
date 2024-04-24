@@ -32,8 +32,8 @@ https://github.com/KOSA-DAEBO/TEAM-KWANGWOO
     Filter를 활용하여 로그인 여부체크
     
     - 출퇴근 체크/확인
-    FullclendarApi를 활용하여 UI구현
-    Oracle SCHEDULER를 활용하여 매일 출퇴근상태를 변경& 오래된 직원 정보삭제
+    FullclendarApi를 활용하여 UI 구현
+    Oracle SCHEDULER를 활용하여 매일 출퇴근상태를 변경 & 오래된 직원 정보삭제
 
 
 
@@ -49,8 +49,9 @@ https://github.com/KOSA-DAEBO/PM_Project-Manager
 
     🔍담당업무:
 
-
-
-
-
+        - 칸반보드
+        협업 프로젝트 관리를 위한 칸반보드 구현
+        
+        - 화상채팅
+        PeerJs라이브러리 WebRTC를 활용하여 화상채팅 구현
 
