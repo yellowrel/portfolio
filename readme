@@ -22,7 +22,6 @@ Java와 Spring을 알고리즘을 공부하는 백엔드 개발자 황승준입�
 
 
 1. ERP기반 컴퓨터몰 
-[링크](https://github.com/yellowrel/TEAM-KWANGWOO)
 개발 기간: 2023.06~ 2023.07
 
 활용 기술:
@@ -39,10 +38,9 @@ Java/ Servlet/ JSP/ Oracle Database/ Oracle SQL/ HTML/ CSS/ Javascript/ Git
     FullclendarApi를 활용하여 UI 구현
     Oracle SCHEDULER를 활용하여 매일 출퇴근상태를 변경 & 오래된 직원 정보삭제
 
-
+[링크](https://github.com/yellowrel/TEAM-KWANGWOO)
 
 2. 협업 프로젝트관리 툴
-[링크](https://github.com/yellowrel/PM_Project-Manager-main)
 개발 기간: 2023.09~ 2023.10
 
 활용 기술:
@@ -57,3 +55,4 @@ Java 11 / Spring FrameWork / Maven / Oracle Database/ Oracle SQL / AWS / WebRTC
         - 화상채팅
         PeerJs라이브러리 WebRTC Api를 활용하여 화상채팅 구현
 
+[링크](https://github.com/yellowrel/PM_Project-Manager-main)
