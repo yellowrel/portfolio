@@ -25,17 +25,15 @@ Java/ Servlet/ JSP/ Oracle Database/ Oracle SQL/ HTML/ CSS/ Javascript/ Git
 주소:
 https://github.com/KOSA-DAEBO/TEAM-KWANGWOO
 
-
-
-🔍담당업무: 
-
-- 로그인/회원가입
-회원가입시 SHA512/256 해시함수를 통한 암호화 알고리즘 사용
-Filter를 활용하여 로그인 여부체크
-
-- 출퇴근 체크/확인
-FullclendarApi를 활용하여 UI구현
-Oracle SCHEDULER를 활용하여 매일 출퇴근상태를 변경& 오래된 직원 정보삭제
+    🔍담당업무: 
+    
+    - 로그인/회원가입
+    회원가입시 SHA512/256 해시함수를 통한 암호화 알고리즘 사용
+    Filter를 활용하여 로그인 여부체크
+    
+    - 출퇴근 체크/확인
+    FullclendarApi를 활용하여 UI구현
+    Oracle SCHEDULER를 활용하여 매일 출퇴근상태를 변경& 오래된 직원 정보삭제
 
 
 
@@ -48,6 +46,10 @@ Java 11 / Spring FrameWork / Maven / Oracle Database/ Oracle SQL / AWS / WebRTC
 
 주소:
 https://github.com/KOSA-DAEBO/PM_Project-Manager
+
+    🔍담당업무:
+
+
 
 
 
